@@ -90,3 +90,5 @@ for (num : fib_nums)
 ```
 
 More information regarding the syntax can be found on the [Night website](https://night-website.dynamicsquid.repl.co/html/reference.html).
+
+The webiste is down right now
